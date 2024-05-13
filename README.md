@@ -18,7 +18,7 @@ The program manages a persistent database stored in a CSV file to track Instagra
 - `update <HANDLE> <FOLLOWERS>`: Updates an existing record. Prompts for a new comment.
 - `save`: Writes changes to the CSV file.
 - `exit`: Exits the program. Warns if there are unsaved changes.
-## User Interaction example
+## User Interaction Example
 ![Screenshot 2024-05-13 132136](https://github.com/Paullitsc/Instagram_Profile_Database/assets/168594999/d1665058-0d34-49d7-97f8-090a3c7f460a)
 
 ## Development
